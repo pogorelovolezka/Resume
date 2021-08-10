@@ -11,20 +11,28 @@ Junior Software Engineer with 1 year non-commercial experiance. I have  knowledg
 </p>
 
 
-### Key points
-*   Completed an internship at the Krivoozerskaya ZOSH №2. First Time: 01.12.2020 - 25.12.2020. Second Time: 15.01.2021 - 15.02.2021
-*   Graduated from the Pervomaisk Polytechnic College. Specialty - Web-design(Junior Specialist)
+<p align='center'>Key points</p>
+<p>
+   Completed an internship at the Krivoozerskaya ZOSH №2. First Time: 01.12.2020 - 25.12.2020. Second Time: 15.01.2021 - 15.02.2021
+   Graduated from the Pervomaisk Polytechnic College. Specialty - Web-design(Junior Specialist)
+</p>
+
+<p align='center'>🛠 Technical Stack</p>
+<p>C#/MSSQL/Asp Net Core</p>
+<p>
+   Basic knowledge of HTML/CSS
+   Basic knowledge of Entity Framework Core/SQL
+   Good knowledge of Visual Studio
+   GitHub
+</p>
 
 
-🛠 Technical Stack
-<p align='center'>C#/MSSQL/Asp Net Core</p>
-<p>Basic knowledge of HTML/CSS</p>
-<p>Basic knowledge of Entity Framework Core/SQL</p>
-<p>Good knowledge of Visual Studio</p>
-<p>GitHub</p>
+<p align='center'>My opensource projects</p>
+<p>
+   <a href="https://github.com/pogorelovolezka/OnlineShop">OnlineShop(in developing)</a>
+<a href="https://github.com/pogorelovolezka/OnlineShop">OnlineShop(in developing)</a>
 
-### My opensource projects
-
+</p>
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/pogorelovolezka">
