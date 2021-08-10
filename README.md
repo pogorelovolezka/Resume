@@ -16,8 +16,8 @@ Junior Software Engineer with 1 year non-commercial experiance. I have  knowledg
 *   Graduated from the Pervomaisk Polytechnic College. Specialty - Web-design(Junior Specialist)
 
 
-## 🛠 Technical Stack
-<p>C#/MSSQL/Asp Net Core</p>
+🛠 Technical Stack
+<p align='center'>C#/MSSQL/Asp Net Core</p>
 <p>Basic knowledge of HTML/CSS</p>
 <p>Basic knowledge of Entity Framework Core/SQL</p>
 <p>Good knowledge of Visual Studio</p>
