@@ -17,11 +17,11 @@ Junior Software Engineer with 1 year non-commercial experiance. I have  knowledg
 
 
 ## 🛠 Technical Stack
-*   C#/MSSQL/Asp Net Core
-*   Basic knowledge of HTML/CSS
-*   Basic knowledge of Entity Framework Core/SQL
-*   Good knowledge of Visual Studio
-*   GitHub
+<p>C#/MSSQL/Asp Net Core</p>
+<p>Basic knowledge of HTML/CSS</p>
+<p>Basic knowledge of Entity Framework Core/SQL</p>
+<p>Good knowledge of Visual Studio</p>
+<p>GitHub</p>
 
 ### My opensource projects
 
