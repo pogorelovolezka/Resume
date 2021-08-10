@@ -1,42 +1,33 @@
 # Hi, I'm Oleg 👋
-Senior Software Engineer with more than 5 years of commertial experience. I have excellent knowledge in backend development on Java.
-In general worked with monolitic, microservice and serverless arthitectures. Big part of my acitities is open-source.
-
+Junior Software Engineer with 1 year non-commercial experiance. I have  knowledge in backend development on C#/AspNetCoreMvc.
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/oleg-pogorelov-6067981b0/">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
    <a href="https://t.me/aleh_123">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:roman.beskrovnyy@gmail.com'>roman.beskrovnyy@gmail.com</a>
+   📫 How to reach me: <a href='mailto:pogorelovolezka17@gmail.com'>pogorelovolezka17@gmail.com</a>
 </p>
 
 
 ### Key points
-*   creator of [Javarush Community](https://github.com/javarushcommunity) and [Template Repository](https://github.com/template-repository) organizations.
-*   creator and author of [romankh3](https://t.me/romankh3) telegram channel. Subscribe to recieve messages about my open-source activities.
-*   Write posts about software development.
-*   Currently working in [Epam Systems](https://www.linkedin.com/company/epam-systems/)
+*   Completed an internship at the Krivoozerskaya ZOSH №2. First Time: 01.12.2020 - 25.12.2020. Second Time: 15.01.2021 - 15.02.2021
+*   Graduated from the Pervomaisk Polytechnic College. Specialty - Web-design(Junior Specialist)
+
 
 ## 🛠 Technical Stack
-*   Java/Kotlin/Groovy/COBOL languages
-*   MySQL, PostgreSQL, MongoDB, Aurora, DynamoDB, Flyway, Liquibase
-*   Spring Framework, Spring Boot, Spring Test, Spring Data Jpa, Spring Jdbc template, Spring Cloud Contract and so on...
-*   Camunda, Camunda Cockpit, Camunda Modeleter
-*   GitHub/GitLab/Gerrit/Bitbucket
+*   C#/MSSQL/Asp Net Core
+*   Basic knowledge of HTML/CSS
+*   Basic knowledge of Entity Framework Core/SQL
+*   Good knowledge of Visual Studio
+*   GitHub
 
 ### My opensource projects
 
-*   [image-comparison](https://github.com/romankh3/image-comparison) - Published on Maven Central Java Library that compares 2 images with the same sizes and shows the differences visually by drawing rectangles. Some parts of the image can be excluded from the comparison.
-*   [JavaRush TelegramBot](https://github.com/javarushcommunity/javarush-telegrambot) - JavaRush Telegram bot from the community to the community
-*   [Skyscanner Flight API client](https://github.com/romankh3/skyscanner-flight-api-client) - Published on Maven Central Java Client for a Skyscanner Flight Search API hosted in Rapid API
-*   [Flights-monitoring](https://github.com/romankh3/flights-monitoring) - Application for monitoring flight cost based on Skyscanner API
 
 <div align="center" style="margin: 40px 0">
-   <a href="https://github.com/romankh3/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=romankh3&color=DE002D">
+   <a href="https://github.com/pogorelovolezka">
+      
    </a>
 </div>
