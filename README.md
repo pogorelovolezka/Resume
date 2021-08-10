@@ -18,21 +18,17 @@ Junior Software Engineer with 1 year non-commercial experiance. I have  knowledg
 </p>
 
 <p align='center'>🛠 Technical Stack</p>
-<p>C#/MSSQL/Asp Net Core</p>
-<p>
-   Basic knowledge of HTML/CSS
-   Basic knowledge of Entity Framework Core/SQL
-   Good knowledge of Visual Studio
-   GitHub
-</p>
+   <p>C#/MSSQL/Asp Net Core</p>
+   <p>Basic knowledge of HTML/CSS</p>
+   <p>Basic knowledge of Entity Framework Core/SQL</p>
+   <p>Good knowledge of Visual Studio</p>
+   <p> GitHub</p>
 
 
 <p align='center'>My opensource projects</p>
-<p>
-   <a href="https://github.com/pogorelovolezka/OnlineShop">OnlineShop(in developing)</a>
-<a href="https://github.com/pogorelovolezka/OnlineShop">OnlineShop(in developing)</a>
-
-</p>
+<p><a href="https://github.com/pogorelovolezka/OnlineShop">OnlineShop(in developing)</a></p>
+<p>  <a href="https://github.com/pogorelovolezka/SchoolNews1">SchoolNews - My graduation project
+</a></p>
 
 <div align="center" style="margin: 40px 0">
    <a href="https://github.com/pogorelovolezka">
