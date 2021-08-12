@@ -25,8 +25,8 @@
 
 <p align='center'>My opensource projects</p>
 <p><a href="https://github.com/pogorelovolezka/OnlineShop">OnlineShop(in developing)</a></p>
-<p>  <a href="https://github.com/pogorelovolezka/SchoolNews1">SchoolNews - My graduation project
-</a></p>
+<p><a href="https://github.com/pogorelovolezka/SchoolNews1">SchoolNews - My graduation project</a></p>
+<p><a href="https://github.com/pogorelovolezka/SunsetStoreWpf">Sunset Store Wpf</a></p>
    
 
 <div align="center" style="margin: 40px 0">
