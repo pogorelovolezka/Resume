@@ -1,5 +1,5 @@
    <h2>Hi, I'm Oleg Pogorelov👋</h2>
-   <p><img src="ResumePhoto1.jpg" width="200" height="200"></img></p>
+   <p><img src="ResumePhoto1.jpg" width="200" height="200"></p>
 <h3>Junior Software Engineer with 1 year non-commercial experiance. I have  knowledge in backend development on C#/AspNetCoreMvc.</h3>
 
 <p align='center'>
